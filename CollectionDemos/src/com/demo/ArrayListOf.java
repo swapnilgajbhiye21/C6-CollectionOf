@@ -10,6 +10,10 @@ public class ArrayListOf {
 		
 		List<String>list = Arrays.asList("swapnil","pankaj","sonal","snehal");
 		System.out.println(list);
+		
+		
+		List<Integer>al = Arrays.asList(101,202,303,404);
+		System.out.println(al);
 
 	}
 
